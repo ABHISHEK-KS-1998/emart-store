@@ -1,0 +1,75 @@
+{
+  "categories":[
+  {
+    "name": "Women Dress",
+    "subcategory": [
+      "Wedding & Event",
+      "Tops & Sets",
+      "Watches"
+    ]
+  },
+    {
+      "name": "Men Clothing & Fashion",
+      "subcategory": [
+        "OutWear & Jackets",
+        "Formal Dress",
+        "Accessories"
+      ]
+    },
+    {
+      "name": "Computer and Accessories",
+      "subcategory": [
+        "Laptop",
+        "Gaming PC",
+        "Official Equipment"
+      ]
+    },
+    {
+      "name": "Automobile",
+      "subcategory": [
+        "Cars",
+        "Bikes"
+      ]
+    },
+    {
+      "name": "Kid Toys",
+      "subcategory": [
+        "Shoes & Bags",
+        "Baby Clothing",
+        "Girl Toys"
+      ]
+    },
+    {
+      "name": "Sports",
+      "subcategory": [
+        "Cycling",
+        "Sneakers",
+        "Swimming"
+      ]
+    },
+    {
+      "name": "Furniture",
+      "subcategory": [
+         "Sofa",
+        "Bed",
+        "Home Textile"
+      ]
+    },
+    {
+      "name": "Jewellery",
+      "subcategory": [
+        "Necklace",
+        "Gold",
+        "Earing"
+      ]
+    },
+    {
+      "name": "Cellphone",
+      "subcategory": [
+          "Smartphone",
+        "Tablets",
+        "Accessories"
+      ]
+    }
+]
+}
